@@ -10,5 +10,5 @@ rmse_lr = mse_lr**(1/2)
 # Print rmse_lr
 print('Linear Regression test set RMSE: {:.2f}'.format(rmse_lr))
 
-# Print rmse_dt
+# Print rmse_dt..
 print('Regression Tree test set RMSE: {:.2f}'.format(rmse_dt))
